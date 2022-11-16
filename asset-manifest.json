@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.78493639.css",
-    "main.js": "/static/js/main.ac6309dc.js",
-    "static/js/351.f051e3be.chunk.js": "/static/js/351.f051e3be.chunk.js",
+    "main.js": "/static/js/main.d118ed04.js",
+    "static/js/351.ee500499.chunk.js": "/static/js/351.ee500499.chunk.js",
     "static/js/787.713d8aa6.chunk.js": "/static/js/787.713d8aa6.chunk.js",
     "static/media/LasVegas.png": "/static/media/LasVegas.ad6d96dd0dde2eba5e45.png",
     "static/media/BattleImages.png": "/static/media/BattleImages.ca4b947342c27596fd56.png",
@@ -19,12 +19,12 @@
     "static/media/Plant_Life.png": "/static/media/Plant_Life.d427ddcfdaebcfb6f8d6.png",
     "index.html": "/index.html",
     "main.78493639.css.map": "/static/css/main.78493639.css.map",
-    "main.ac6309dc.js.map": "/static/js/main.ac6309dc.js.map",
-    "351.f051e3be.chunk.js.map": "/static/js/351.f051e3be.chunk.js.map",
+    "main.d118ed04.js.map": "/static/js/main.d118ed04.js.map",
+    "351.ee500499.chunk.js.map": "/static/js/351.ee500499.chunk.js.map",
     "787.713d8aa6.chunk.js.map": "/static/js/787.713d8aa6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78493639.css",
-    "static/js/main.ac6309dc.js"
+    "static/js/main.d118ed04.js"
   ]
 }
