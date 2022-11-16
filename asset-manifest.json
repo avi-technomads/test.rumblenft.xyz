@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78493639.css",
+    "main.js": "/static/js/main.ac6309dc.js",
+    "static/js/351.f051e3be.chunk.js": "/static/js/351.f051e3be.chunk.js",
+    "static/js/787.713d8aa6.chunk.js": "/static/js/787.713d8aa6.chunk.js",
+    "static/media/LasVegas.png": "/static/media/LasVegas.ad6d96dd0dde2eba5e45.png",
+    "static/media/BattleImages.png": "/static/media/BattleImages.ca4b947342c27596fd56.png",
+    "static/media/groubBattle.png": "/static/media/groubBattle.39906506115b05aeb33d.png",
+    "static/media/image14.png": "/static/media/image14.57498152df4caabcbab2.png",
+    "static/media/image15.png": "/static/media/image15.f555a85bd1412a0c6fd1.png",
+    "static/media/essential.png": "/static/media/essential.2d42d38e1ed350e62270.png",
+    "static/media/PricePool.png": "/static/media/PricePool.29dbf9eb56e831b54f95.png",
+    "static/media/Electric_storm.png": "/static/media/Electric_storm.2befad2c6dfd66a749cd.png",
+    "static/media/fire.png": "/static/media/fire.1de7ef8649090c821ea3.png",
+    "static/media/Air_.png": "/static/media/Air_.3bbfedd9218fa2d1ae9e.png",
+    "static/media/Water.png": "/static/media/Water.8e288fc6be34cb6ae8dc.png",
+    "static/media/Earth.png": "/static/media/Earth.921dbc6df94435409e8c.png",
+    "static/media/Plant_Life.png": "/static/media/Plant_Life.d427ddcfdaebcfb6f8d6.png",
+    "index.html": "/index.html",
+    "main.78493639.css.map": "/static/css/main.78493639.css.map",
+    "main.ac6309dc.js.map": "/static/js/main.ac6309dc.js.map",
+    "351.f051e3be.chunk.js.map": "/static/js/351.f051e3be.chunk.js.map",
+    "787.713d8aa6.chunk.js.map": "/static/js/787.713d8aa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78493639.css",
+    "static/js/main.ac6309dc.js"
+  ]
+}
